@@ -1,0 +1,19 @@
+
+/.settings/
+/target/
+ 
+# files for the dex VM
+*.dex
+ 
+# Java class files
+*.class
+*.jar
+ 
+# generated files
+bin/
+gen/
+ 
+# Eclipse project files
+.classpath
+.project
+.DS_Stor
