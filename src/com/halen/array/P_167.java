@@ -6,8 +6,8 @@ import java.util.HashMap;
 /**
  * 
  * @author halen
- * @date 2019Äê3ÔÂ12ÈÕ
- * @Description: Á½ÊýÖ®ºÍ£¬LeetCode167Ìâ
+ * @date 2019å¹´3æœˆ12æ—¥
+ * @Description: ä¸¤æ•°ä¹‹å’ŒLeetCode167é¢˜
  */
 
 public class P_167 {

@@ -5,8 +5,8 @@ import java.util.Arrays;
 /**
  * 
  * @author halen
- * @date 2019Äê3ÔÂ12ÈÕ
- * @Description: ¼ÓÒ»£¬LeetCodeµÚ66Ìâ
+ * @date 2019å¹´3æœˆ12æ—¥
+ * @Description: åŠ ä¸€LeetCodeç¬¬66é¢˜
  */
 public class P_066 {
 	

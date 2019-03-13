@@ -7,8 +7,8 @@ import java.util.HashMap;
 /**
  * 
  * @author halen
- * @date 2019Äê3ÔÂ12ÈÕ
- * @Description: Á½Ê÷Ö®ºÍ£¬LeetCodeµÚ001Ìâ
+ * @date 2019å¹´3æœˆ12æ—¥
+ * @Description: ä¸¤æ•°ä¹‹å’ŒLeetCodeç¬¬001é¢˜
  */
 class Solution{
 	public int[] twoSum(int[] nums,int target){
