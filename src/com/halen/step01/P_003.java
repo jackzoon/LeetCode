@@ -1,4 +1,4 @@
-package com.halen.array;
+package com.halen.step01;
 
 import java.util.HashMap;
 import java.util.HashSet;
