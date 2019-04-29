@@ -1,9 +1,8 @@
 package com.halen.step01;
 
-import sun.net.www.content.text.plain;
 
 /**
- *       反转链表，LeetCode第206题
+ * 反转链表，LeetCode第206题
  * @author halen
  *
  */
