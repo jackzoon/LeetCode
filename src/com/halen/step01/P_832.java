@@ -23,4 +23,16 @@ public class P_832 {
         }
         return res;
     }
+	
+	public int[][] flipAndInvertImage_2(int[][] A) {
+        for(int i=0;i<A.length;i++) {
+        	int len = A[i].length;
+        	int[] tmp = new int[len];
+        	for(int j=0;j<A[i].length;j++) {
+        		tmp[j] = A[i][--len]^1;        		
+        	}
+        	A[i] = tmp;
+        }
+        return A;
+    }
 }
