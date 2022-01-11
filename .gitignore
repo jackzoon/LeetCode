@@ -17,3 +17,5 @@ gen/
 .classpath
 .project
 .DS_Stor
+*.iml
+.idea
